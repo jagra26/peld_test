@@ -3,7 +3,7 @@ title: Projeto Assets
 subtitle:
 date: 2024-11-18T21:19:49-03:00
 slug: 02355b4
-draft: true
+draft: false
 author: 
   name: João Arthur Gaia da Rocha Almeida
   link: github.com/jagra26
