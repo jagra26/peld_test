@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/peld_test/tags/assets/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/categories/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/categories/draft/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/posts/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/posts/02355b4/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/tags/</loc>
+    <lastmod>2024-11-18T21:19:49-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/archives/</loc>
+    <lastmod>2024-11-18T20:36:50-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/archives/assets/</loc>
+    <lastmod>2024-11-18T20:36:50-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/posts/heliotrobot/</loc>
+    <lastmod>2024-11-18T16:41:19-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/peld_test/collections/</loc>
+  </url>
+</urlset>
