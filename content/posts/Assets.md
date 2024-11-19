@@ -44,4 +44,4 @@ repost:
 
 O projeto assets é muito legal.
 
-Baixe os dados {{< download_file link="https://github.com/jagra26/peld_test/raw/refs/heads/main/static/Assets_APAsAL.xlsx">}}
+Baixe os dados {{< download_file link="https://github.com/jagra26/peld_test/blob/main/static/Assets_APAsAL.xlsx">}}

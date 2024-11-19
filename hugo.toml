@@ -10,6 +10,6 @@ theme = 'FixIt'
   _merge = "shallow"
 [params.header.title]
       # URL of the LOGO
-      logo = 'https://lh3.googleusercontent.com/US0NEjKykYUcPE4CgGbLC9YlkK1E384fzRLUbgaE7XKmu9JiQBvxzsv1YKdE76Tqf1aiym9rUriLpv9_JLzrld0=w16383'
+      logo = 'https://github.com/jagra26/peld_test/blob/main/static/LOGO%20COSTA%20DOS%20CORAIS%20VERSAO%20SEM%20ESTACA%20-%20PELD.png?raw=true'
 [markup.goldmark.renderer]
 unsafe = true
